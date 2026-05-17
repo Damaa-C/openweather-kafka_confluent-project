@@ -1,0 +1,9 @@
+kafka-python
+requests
+pandas
+sqlalchemy
+dotenv
+time
+os
+docker-compose
+ipykernel
